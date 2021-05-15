@@ -19,7 +19,7 @@ Clone this repo with git and make sure you have node.js installed.
 - Install the dependencies and devDependencies and start the development server.
 
 ```sh
-cd ReadNCode
+cd Known
 npm i
 npm run dev
 ```
