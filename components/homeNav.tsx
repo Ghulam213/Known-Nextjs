@@ -10,7 +10,7 @@ const HomeNav: FC<{ links?: { name: string; link: string }[] }> = ({ links }) =>
 
   return (
     <nav>
-      <Pane width="100vw" paddingY={majorScale(1)} borderBottom height={majorScale(9)}>
+      <Pane width="100%" paddingY={majorScale(1)} borderBottom height={majorScale(9)}>
         <Container height="100%">
           <Pane display="flex" justifyContent="space-between" alignItems="center" height="100%">
             <Logo />
