@@ -19,7 +19,7 @@ Clone this repo with git and make sure you have node.js installed.
 - Install the dependencies and devDependencies and start the development server.
 
 ```sh
-cd Known
+cd Known-Nextjs
 npm i
 npm run dev
 ```
@@ -29,6 +29,5 @@ npm run dev
 - For database url use your database url
 - JWT secret can be any random string
 - For Next public api use http://localhost:[YOUR_PORT_NO]
-- You can use books.json to prepopulate your database with books.
 
 Your app will now be running on localhost. Enjoy!
